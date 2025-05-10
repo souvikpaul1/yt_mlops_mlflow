@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/yt_mlops_mlflow/mlruns/920498108690943832/f0fa5ffc98e8400695248ae62fbc3099/artifacts
+end_time: 1746886483116
+entry_point_name: ''
+experiment_id: '920498108690943832'
+lifecycle_stage: active
+run_id: f0fa5ffc98e8400695248ae62fbc3099
+run_name: resilient-slug-708
+run_uuid: f0fa5ffc98e8400695248ae62fbc3099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746886483053
+status: 3
+tags: []
+user_id: souvik

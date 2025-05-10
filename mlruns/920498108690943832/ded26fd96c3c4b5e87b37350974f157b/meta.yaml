@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/yt_mlops_mlflow/mlruns/920498108690943832/ded26fd96c3c4b5e87b37350974f157b/artifacts
+end_time: 1746886483446
+entry_point_name: ''
+experiment_id: '920498108690943832'
+lifecycle_stage: active
+run_id: ded26fd96c3c4b5e87b37350974f157b
+run_name: nervous-jay-763
+run_uuid: ded26fd96c3c4b5e87b37350974f157b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746886483411
+status: 3
+tags: []
+user_id: souvik

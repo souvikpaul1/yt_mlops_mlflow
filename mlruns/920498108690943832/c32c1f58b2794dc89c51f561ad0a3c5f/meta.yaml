@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/yt_mlops_mlflow/mlruns/920498108690943832/c32c1f58b2794dc89c51f561ad0a3c5f/artifacts
+end_time: 1746886483196
+entry_point_name: ''
+experiment_id: '920498108690943832'
+lifecycle_stage: active
+run_id: c32c1f58b2794dc89c51f561ad0a3c5f
+run_name: stately-ram-234
+run_uuid: c32c1f58b2794dc89c51f561ad0a3c5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746886483164
+status: 3
+tags: []
+user_id: souvik

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/yt_mlops_mlflow/mlruns/920498108690943832/f87c0af2fe5d43d9ae19dccc97176259/artifacts
+end_time: 1746886483041
+entry_point_name: ''
+experiment_id: '920498108690943832'
+lifecycle_stage: active
+run_id: f87c0af2fe5d43d9ae19dccc97176259
+run_name: dapper-perch-976
+run_uuid: f87c0af2fe5d43d9ae19dccc97176259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746886483015
+status: 3
+tags: []
+user_id: souvik

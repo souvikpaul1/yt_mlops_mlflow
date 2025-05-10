@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/yt_mlops_mlflow/mlruns/920498108690943832/c00d0fde384149feaabf59188198a588/artifacts
+end_time: 1746886483681
+entry_point_name: ''
+experiment_id: '920498108690943832'
+lifecycle_stage: active
+run_id: c00d0fde384149feaabf59188198a588
+run_name: stately-smelt-298
+run_uuid: c00d0fde384149feaabf59188198a588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746886483651
+status: 3
+tags: []
+user_id: souvik

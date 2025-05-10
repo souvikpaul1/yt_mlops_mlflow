@@ -11,6 +11,19 @@ mlflow UI
 
 1. file1.py --> mlflow on local host
 2. file2.py --> mlflow on DAGSHUB
+3. autolog.py --> no need to mention what to log, can be run both in local host and DAGSHUB
+4. hypertune.py --> Auto locking using HP tuning will all child runs
+
+
+remote server: https://dagshub.com/souvikpaul425/yt_mlops_mlflow.mlflow/ --> sharable across Timestamps
+pip install dagshub
+
+Auto lock using autologging
+
+Model registry:
+track the models, can be done from mlflow UI
+
+
 
 
 

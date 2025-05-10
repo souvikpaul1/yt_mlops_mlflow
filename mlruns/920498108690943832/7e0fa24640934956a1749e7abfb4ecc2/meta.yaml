@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/yt_mlops_mlflow/mlruns/920498108690943832/7e0fa24640934956a1749e7abfb4ecc2/artifacts
+end_time: 1746886483151
+entry_point_name: ''
+experiment_id: '920498108690943832'
+lifecycle_stage: active
+run_id: 7e0fa24640934956a1749e7abfb4ecc2
+run_name: peaceful-rook-492
+run_uuid: 7e0fa24640934956a1749e7abfb4ecc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746886483121
+status: 3
+tags: []
+user_id: souvik
