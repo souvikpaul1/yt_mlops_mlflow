@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721577606139819605/b15f1301e0dc45d3866aca559aa674b7/artifacts
+end_time: 1746878692773
+entry_point_name: ''
+experiment_id: '721577606139819605'
+lifecycle_stage: active
+run_id: b15f1301e0dc45d3866aca559aa674b7
+run_name: rare-robin-160
+run_uuid: b15f1301e0dc45d3866aca559aa674b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878669516
+status: 3
+tags: []
+user_id: souvik

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721577606139819605/c59c66a7324e41f9a953f58b7d3f7c30/artifacts
+end_time: 1746877074087
+entry_point_name: ''
+experiment_id: '721577606139819605'
+lifecycle_stage: active
+run_id: c59c66a7324e41f9a953f58b7d3f7c30
+run_name: resilient-rat-561
+run_uuid: c59c66a7324e41f9a953f58b7d3f7c30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746877038109
+status: 3
+tags: []
+user_id: souvik

@@ -1,0 +1,17 @@
+1. Experiment Tracking
+2. DVC vs ML FLow
+3. ML flow for Data science --> multiple developer works parallelly
+4. Code Demonstration
+5. ML flow Server architecture
+6. Model registry
+
+
+pip install mlflow
+mlflow UI
+
+1. file1.py --> mlflow on local host
+2. file2.py --> mlflow on DAGSHUB
+
+
+
+
